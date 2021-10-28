@@ -1,25 +1,30 @@
 com/HJ/GetInLineApplication.java
  com.HJ.GetInLineApplication
-<<<<<<< HEAD
+com/HJ/domain/AdminPlaceMap.java
+ com.HJ.domain.AdminPlaceMap
 com/HJ/controller/AuthController.java
  com.HJ.controller.AuthController
-com/HJ/controller/BaseController.java
- com.HJ.controller.BaseController
-=======
-com/HJ/controller/BaseController.java
- com.HJ.controller.BaseController
-com/HJ/controller/AdminController.java
- com.HJ.controller.AdminController
-com/HJ/controller/api/APIPlaceController.java
- com.HJ.controller.api.APIPlaceController
+com/HJ/controller/api/APIEventController.java
+ com.HJ.controller.api.APIEventController
 com/HJ/controller/api/APIAuthController.java
  com.HJ.controller.api.APIAuthController
 com/HJ/controller/PlaceController.java
  com.HJ.controller.PlaceController
 com/HJ/controller/EventController.java
  com.HJ.controller.EventController
-com/HJ/controller/api/APIEventController.java
- com.HJ.controller.api.APIEventController
-com/HJ/controller/AuthController.java
- com.HJ.controller.AuthController
->>>>>>> functional0progrmming
+com/HJ/controller/AdminController.java
+ com.HJ.controller.AdminController
+com/HJ/constant/PlaceType.java
+ com.HJ.constant.PlaceType
+com/HJ/controller/api/APIPlaceController.java
+ com.HJ.controller.api.APIPlaceController
+com/HJ/domain/Event.java
+ com.HJ.domain.Event
+com/HJ/domain/Admin.java
+ com.HJ.domain.Admin
+com/HJ/domain/Place.java
+ com.HJ.domain.Place
+com/HJ/constant/EventStatus.java
+ com.HJ.constant.EventStatus
+com/HJ/controller/BaseController.java
+ com.HJ.controller.BaseController
